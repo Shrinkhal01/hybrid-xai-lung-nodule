@@ -1,5 +1,0 @@
-[db]
-uri = sqlite:////Users/shrinkhals/Shrinkhal-Github/Projects/hybrid-xai-lung-nodule/manifest-1786753014866/.venv/lib/python3.14/site-packages/pylidc/pylidc.sqlite
-
-[path]
-path = /Users/shrinkhals/Shrinkhal-Github/Projects/hybrid-xai-lung-nodule/manifest-1786753014866/LIDC-IDRI
