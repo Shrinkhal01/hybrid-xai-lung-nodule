@@ -1,5 +1,8 @@
 # Hybrid XAI Lung Nodule Analysis
-![hybrid-xai-lung-nodule.jpg]
+<p align="center">
+  <img src="hybrid-xai-lung-nodule.jpg" alt="Hybrid XAI Lung Nodule" width="600">
+</p>
+
 - Out of your 1,608 total nodules, exactly 366 of them had an indeterminate score of 3.0.
 ```
 1,608 - 366 = 1,242
